@@ -43,7 +43,7 @@ A collection of Machine Learning algorithms implemented from scratch and using P
 Location:
 
 ```text
-Linear_Regression/
+LinearRegression from scratch/
 ```
 
 More models will be added as the repository grows.
